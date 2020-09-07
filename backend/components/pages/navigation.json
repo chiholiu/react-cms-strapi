@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_pages_navigations",
+  "info": {
+    "name": "navigation",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "navigation": {
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.navigation-tabs"
+    }
+  }
+}

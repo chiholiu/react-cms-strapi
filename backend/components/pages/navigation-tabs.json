@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_pages_navigation_tabs",
+  "info": {
+    "name": "navigation-tabs",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "tabs": {
+      "type": "string"
+    }
+  }
+}

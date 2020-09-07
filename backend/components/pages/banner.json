@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_banner_banners",
+  "info": {
+    "name": "banner",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "text": {
+      "type": "richtext"
+    }
+  }
+}
