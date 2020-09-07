@@ -1,8 +1,8 @@
 {
-  "collectionName": "components_pages_navigation_tabs",
+  "collectionName": "components_sections_navigation_tabs",
   "info": {
     "name": "navigation-tabs",
-    "icon": "ad"
+    "icon": "address-book"
   },
   "options": {},
   "attributes": {

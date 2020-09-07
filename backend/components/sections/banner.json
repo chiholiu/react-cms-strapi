@@ -1,15 +1,18 @@
 {
-  "collectionName": "components_banner_banners",
+  "collectionName": "components_sections_banners",
   "info": {
     "name": "banner",
-    "icon": "align-justify"
+    "icon": "air-freshener"
   },
   "options": {},
   "attributes": {
-    "header": {
+    "title": {
       "type": "string"
     },
-    "picture": {
+    "story": {
+      "type": "richtext"
+    },
+    "profile": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
@@ -19,9 +22,6 @@
       ],
       "plugin": "upload",
       "required": false
-    },
-    "text": {
-      "type": "richtext"
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_contact_tiles",
+  "info": {
+    "name": "contact-tiles",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "richtext"
+    }
+  }
+}

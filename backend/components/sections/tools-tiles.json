@@ -1,12 +1,12 @@
 {
-  "collectionName": "components_pages_tools",
+  "collectionName": "components_sections_tools_tiles",
   "info": {
-    "name": "tools",
-    "icon": "address-card"
+    "name": "tools-tiles",
+    "icon": "align-justify"
   },
   "options": {},
   "attributes": {
-    "picture": {
+    "image": {
       "collection": "file",
       "via": "related",
       "allowedTypes": [

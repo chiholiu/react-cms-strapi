@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_portfolios",
+  "info": {
+    "name": "Portfolio",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "website": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.portfolio-tiles"
+    }
+  }
+}

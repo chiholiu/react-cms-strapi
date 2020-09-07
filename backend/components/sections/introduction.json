@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_introductions",
+  "info": {
+    "name": "introduction",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "tiles": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.introduction-tiles"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_portfolio_tiles",
+  "info": {
+    "name": "portfolio-tiles",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "website": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_introduction_tiles",
+  "info": {
+    "name": "introduction-tiles",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    }
+  }
+}

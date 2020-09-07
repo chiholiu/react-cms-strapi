@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sections",
+  "info": {
+    "name": "sections"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "navigation": {
+      "type": "dynamiczone",
+      "components": [
+        "sections.navigation",
+        "sections.banner",
+        "sections.portfolio",
+        "sections.introduction",
+        "sections.tools",
+        "sections.contact"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_qr_codes",
+  "info": {
+    "name": "qr-code",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "qrcode": {
+      "type": "richtext"
+    }
+  }
+}

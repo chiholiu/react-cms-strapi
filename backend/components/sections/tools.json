@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_tools",
+  "info": {
+    "name": "tools",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "tools": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.tools-tiles"
+    }
+  }
+}
